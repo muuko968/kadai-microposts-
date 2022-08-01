@@ -1,0 +1,9 @@
+=> [34;4mApp\User[39;24m {#3350
+     [34mname[39m: "[32mtest[39m",
+     [34memail[39m: "[32mtest@test.com[39m",
+     #[33mpassword[39m: "[32m$2y$10$17H.gFHc8utPe5pPfzq52uyhw9ZowyKTp0oSCBJmB5DzKra0Bf5o2[39m",
+     [34mupdated_at[39m: "[32m2022-08-01 11:58:46[39m",
+     [34mcreated_at[39m: "[32m2022-08-01 11:58:46[39m",
+     [34mid[39m: [35m1[39m,
+   }
+
